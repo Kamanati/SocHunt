@@ -35,7 +35,7 @@ git clone https://github.com/Kamanati/SocHunt && cd SocHunt && bash hunt.sh
 ```
 ## video
 <p align="center"> <a href="https://youtu.be/RFLWTVXaLoQ"><img title="Made in INDIA" width="58%" src="/img/20220630_194920_0000.png"></a>
-</a>
+
 ### Find Me on :
 
 <p align="left">
